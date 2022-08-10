@@ -1,6 +1,6 @@
 # Hi humans 👋, I'm Bárbaro Javier Valmaseda
 
-Software engineer and full stack developer, trying get my tech career back on track. I advocate the use of open source and started in the Web 3.0 world thanks to Platzi's #EthDevProgram. I would like to work in teams to contribute to development of open source and to the global adoption of blockchain technology, turning LATAM into a technological powerhouse.
+Software engineer and full stack developer, trying to get my tech career back on track. I advocate the use of open source and started in the Web 3.0 world thanks to Platzi's #EthDevProgram. I would like to work in teams to contribute to development of open source and to the global adoption of blockchain technology, turning LATAM into a technological powerhouse.
 
 - 🌱 I’m currently learning **Solidity**
 - 💬 Ask me about whatever you want. I'll try to help
