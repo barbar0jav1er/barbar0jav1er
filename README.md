@@ -1,9 +1,6 @@
-### Hi there 👋
+# Hi humans 👋, I'm Bárbaro Javier Valmaseda
 
-<!--
-**bjvalmaseda92/bjvalmaseda92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Software engineer and full stack developer, trying get my tech career back on track. I advocate the use of open source and started in the Web 3.0 world thanks to Platzi's #EthDevProgram. I would like to work in teams to contribute to development of open source and to the global adoption of blockchain technology, turning LATAM into a technological powerhouse.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
