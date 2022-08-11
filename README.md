@@ -39,6 +39,6 @@ Software engineer and full stack developer, trying to get my tech career back on
 
 ## 📊 Some statistic
 
-![Bárbaro Javier Valmaseda's GitHub stats](https://github-readme-stats-tau-one-69.vercel.app/api?username=bjvalmaseda92&show_icons=true&count_private=true)
+![Bárbaro Javier Valmaseda's GitHub stats](https://github-readme-stats-bjvalmaseda.vercel.app//api?username=bjvalmaseda92&show_icons=true&count_private=true)
 
-![Bárbaro Javier Valmaseda's Top Langs](https://github-readme-stats-tau-one-69.vercel.app/api/top-langs/?username=bjvalmaseda92&layout=compact)
+![Bárbaro Javier Valmaseda's Top Langs](https://github-readme-stats-bjvalmaseda.vercel.app//api/top-langs/?username=bjvalmaseda92&layout=compact)
