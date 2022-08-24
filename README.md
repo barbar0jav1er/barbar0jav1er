@@ -6,7 +6,7 @@ Software engineer and full stack developer, trying to get my tech career back on
 - 💬 Ask me about whatever you want. I'll try to help
   
 <p align="center">
-  <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=bjvalmaseda92.bjvalmaseda92" />
+  <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=bjvalmaseda-dev.bjvalmaseda-dev" />
 </p> 
 
 ## 🔗 You can find me on
@@ -41,4 +41,4 @@ Software engineer and full stack developer, trying to get my tech career back on
 
 ![Bárbaro Javier Valmaseda's GitHub stats](https://github-readme-stats-bjvalmaseda.vercel.app//api?username=bjvalmaseda92&show_icons=true&count_private=true)
 
-![Bárbaro Javier Valmaseda's Top Langs](https://github-readme-stats-bjvalmaseda.vercel.app//api/top-langs/?username=bjvalmaseda92&layout=compact)
+![Bárbaro Javier Valmaseda's Top Langs](https://github-readme-stats-bjvalmaseda.vercel.app//api/top-langs/?username=bjvalmaseda-dev&layout=compact)
