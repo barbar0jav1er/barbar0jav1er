@@ -3,7 +3,7 @@
 I'm a Computer Science Engineer, full-stack web and blockchain developer, with experience in Node.js, specializing in frontend development with React.js. I work with different programming languages such as JavaScript, PHP, and Solidity. Also I have solid knowledge working on containerized environments, Docker, docker-compose. Passionate about writing, constant improvement, and web 3.0. I enjoy learning every day and working on developing new products. 
 
 - 🌱 What am I learning right now? I’m currently learning **Solidity** and smart contract security
-- 👷 What am I building now? Currently I'm part of [Ethereum Developer Program by Platzi 2022][eth-dev-program-url], and together, with a great team, we build [Dochain][Dochain-repo]
+- 👷 What am I working now? Currently I'm part of a frontend team on the Cyber Security area
 - 💬 Ask me about whatever you want. I'll try to help
   
 
