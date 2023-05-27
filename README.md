@@ -108,6 +108,6 @@ I'm a Computer Science Engineer, full-stack web and blockchain developer, with e
 [Ubuntu]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 
 <!--GitHub Stats-->
-[GitHub Streak]: https://streak-stats.demolab.com?user=bjvalmaseda-dev&theme=dark&ring=294CC6&fire=294CC6&currStreakLabel=294CC6
-[GitHub Stats]: https://github-readme-stats-bjvalmaseda.vercel.app//api?username=bjvalmaseda-dev&show_icons=true&count_private=true&theme=THEME_NAME&title_color=294CC6&icon_color=294CC6&text_color=9f9f9f&bg_color=151515
-[Top langs]: https://github-readme-stats-bjvalmaseda.vercel.app//api/top-langs/?username=bjvalmaseda-dev&layout=compact&title_color=294CC6&icon_color=294CC6&text_color=9f9f9f&bg_color=151515
+[GitHub Streak]: https://streak-stats.demolab.com?user=bjvalmasedadev&theme=dark&ring=294CC6&fire=294CC6&currStreakLabel=294CC6
+[GitHub Stats]: https://github-readme-stats-bjvalmaseda.vercel.app//api?username=bjvalmasedadev&show_icons=true&count_private=true&theme=THEME_NAME&title_color=294CC6&icon_color=294CC6&text_color=9f9f9f&bg_color=151515
+[Top langs]: https://github-readme-stats-bjvalmaseda.vercel.app//api/top-langs/?username=bjvalmasedadev&layout=compact&title_color=294CC6&icon_color=294CC6&text_color=9f9f9f&bg_color=151515
