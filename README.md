@@ -30,7 +30,7 @@ I'm a Computer Science Engineer, full-stack web and blockchain developer, with e
 - Dochain for [Ethereum Developer Program by Platzi 2022][eth-dev-program-url]. You can find the [code][Dochain-repo] and visit the [website][Dochain-url]
 - Pokedux a Pokemon web store, using the [PokeApi][PokeApi-url]. You can find the [code][Pokedux-repo] and visit the [website][Pokedux-url]
 - Dynamic NFT challenge. View [code][platziRetoNFT]
-- Dapp for binary vote. Visit the [demo][Web3-url] or check the [code][Web3-repo]
+- Dapp for a binary vote. Visit the [demo][Web3-url] or check the [code][Web3-repo]
 - Avocados store. See the [app][Avocado-url], you can find the [code][Avocado-repo]
 
 ## Other Skills
