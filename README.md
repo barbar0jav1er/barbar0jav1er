@@ -90,13 +90,13 @@ I'm a Computer Science Engineer, full-stack web and blockchain developer, with e
 [Chainlink]: https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white
 [OpenZeppelin]: https://img.shields.io/badge/OpenZeppelin-65aef8?&style=for-the-badge&logo=OpenZeppelin&logoColor=white
 [EVM]: https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white
-[Pokedux-repo]: https://github.com/bjvalmaseda-dev/pokedux
+[Pokedux-repo]: https://github.com/cubancodepath/pokedux
 [Pokedux-url]: https://pokedux.bjvalmaseda.xyz
 [PokeApi-url]: https://pokeapi.co
-[platziRetoNFT]: https://github.com/bjvalmaseda-dev/platziretoDNFT
+[platziRetoNFT]: https://github.com/cubancodepath/platziretoDNFT
 [Web3-url]: https://web3challenge.bjvalmaseda.xyz/
-[Web3-repo]: https://github.com/bjvalmaseda-dev/platzi-web3-libs
-[Avocado-repo]: https://github.com/bjvalmaseda-dev/avocado-nextjs
+[Web3-repo]: https://github.com/cubancodepath/platzi-web3-libs
+[Avocado-repo]: https://github.com/cubancodepath/avocado-nextjs
 [Avocado-url]: http://avocado-store.bjvalmaseda.xyz/
 [HTML5]:https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [CSS3]:https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
@@ -108,6 +108,6 @@ I'm a Computer Science Engineer, full-stack web and blockchain developer, with e
 [Ubuntu]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 
 <!--GitHub Stats-->
-[GitHub Streak]: https://streak-stats.demolab.com?user=bjvalmasedadev&theme=dark&ring=294CC6&fire=294CC6&currStreakLabel=294CC6
-[GitHub Stats]: https://github-readme-stats-bjvalmaseda.vercel.app//api?username=bjvalmasedadev&show_icons=true&count_private=true&theme=THEME_NAME&title_color=294CC6&icon_color=294CC6&text_color=9f9f9f&bg_color=151515
-[Top langs]: https://github-readme-stats-bjvalmaseda.vercel.app//api/top-langs/?username=bjvalmasedadev&layout=compact&title_color=294CC6&icon_color=294CC6&text_color=9f9f9f&bg_color=151515
+[GitHub Streak]: https://streak-stats.demolab.com?user=cubancodepath&theme=dark&ring=294CC6&fire=294CC6&currStreakLabel=294CC6
+[GitHub Stats]: https://github-readme-stats-bjvalmaseda.vercel.app//api?username=cubancodepath&show_icons=true&count_private=true&theme=THEME_NAME&title_color=294CC6&icon_color=294CC6&text_color=9f9f9f&bg_color=151515
+[Top langs]: https://github-readme-stats-bjvalmaseda.vercel.app//api/top-langs/?username=cubancodepath&layout=compact&title_color=294CC6&icon_color=294CC6&text_color=9f9f9f&bg_color=151515
