@@ -28,10 +28,6 @@ I'm a Computer Science Engineer, full-stack web and blockchain developer, with e
 
 ## 👨‍💻 Projects
 - Dochain for [Ethereum Developer Program by Platzi 2022][eth-dev-program-url]. You can find the [code][Dochain-repo] and visit the [website][Dochain-url]
-- Pokedux a Pokemon web store, using the [PokeApi][PokeApi-url]. You can find the [code][Pokedux-repo] and visit the [website][Pokedux-url]
-- Dynamic NFT challenge. View [code][platziRetoNFT]
-- Dapp for a binary vote. Visit the [demo][Web3-url] or check the [code][Web3-repo]
-- Avocados store. See the [app][Avocado-url], you can find the [code][Avocado-repo]
 
 ## Other Skills
 ![Docker][Docker]
@@ -49,13 +45,13 @@ I'm a Computer Science Engineer, full-stack web and blockchain developer, with e
 
 ## 🔗 You can find me on
 
-  <a target="_blank" href="https://twitter.com/bjvalmaseda" title="bjvalmaseda on Twitter">
+  <a target="_blank" href="https://twitter.com/cubancodepath" title="cubancodepath on Twitter">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
-  <a target="_blank" href="https://linkedin.com/in/bjvalmaseda" title="Bárbaro Javier Valmaseda">
+  <a target="_blank" href="https://linkedin.com/in/cubancodepath" title="Bárbaro Javier Valmaseda">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a target="_blank" href="https://t.me/bjvalmaseda" title="bjvalmaseda on Telegram">
+  <a target="_blank" href="https://t.me/cubancodepath" title="bjvalmaseda on Telegram">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 
@@ -65,7 +61,7 @@ I'm a Computer Science Engineer, full-stack web and blockchain developer, with e
 
 ![Bárbaro Javier Valmaseda's GitHub stats][GitHub Stats]
 
-![Bárbaro Javier Valmaseda's Top Langs][Top langs]
+<!--![Bárbaro Javier Valmaseda's Top Langs][Top langs]-->
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -90,14 +86,8 @@ I'm a Computer Science Engineer, full-stack web and blockchain developer, with e
 [Chainlink]: https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white
 [OpenZeppelin]: https://img.shields.io/badge/OpenZeppelin-65aef8?&style=for-the-badge&logo=OpenZeppelin&logoColor=white
 [EVM]: https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white
-[Pokedux-repo]: https://github.com/cubancodepath/pokedux
-[Pokedux-url]: https://pokedux.bjvalmaseda.xyz
 [PokeApi-url]: https://pokeapi.co
-[platziRetoNFT]: https://github.com/cubancodepath/platziretoDNFT
 [Web3-url]: https://web3challenge.bjvalmaseda.xyz/
-[Web3-repo]: https://github.com/cubancodepath/platzi-web3-libs
-[Avocado-repo]: https://github.com/cubancodepath/avocado-nextjs
-[Avocado-url]: http://avocado-store.bjvalmaseda.xyz/
 [HTML5]:https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [CSS3]:https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [GIT]: https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white
