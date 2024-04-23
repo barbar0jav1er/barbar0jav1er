@@ -4,7 +4,7 @@ I'm a Computer Science Engineer, full-stack web and blockchain developer, with e
 
 - 🌱 What am I learning right now? I’m currently learning **Solidity** and smart contract security.
 - 👷 What am I working now? Currently I'm part of a frontend team on the Cyber Security area.
-- 💬 Ask me about whatever you want. I'll try to help
+- 💬 Ask me about whatever you want. I'll try to help.
   
 
 
