@@ -57,7 +57,6 @@ I'm a Computer Science Engineer, full-stack web and blockchain developer, with e
 
 
 ## 📊 Some statistic
-![Bárbaro Javier Valmaseda's GitHub streak][GitHub Streak]
 
 ![Bárbaro Javier Valmaseda's GitHub stats][GitHub Stats]
 
