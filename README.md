@@ -45,13 +45,13 @@ I'm a Computer Science Engineer, full-stack web and blockchain developer, with e
 
 ## 🔗 You can find me on
 
-  <a target="_blank" href="https://twitter.com/cubancodepath" title="cubancodepath on Twitter">
+  <a target="_blank" href="https://twitter.com/barbar0jav1er" title="barbar0jav1er on Twitter">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
-  <a target="_blank" href="https://linkedin.com/in/cubancodepath" title="Bárbaro Javier Valmaseda">
+  <a target="_blank" href="https://linkedin.com/in/barbar0jav1er" title="Bárbaro Javier Valmaseda">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a target="_blank" href="https://t.me/cubancodepath" title="bjvalmaseda on Telegram">
+  <a target="_blank" href="https://t.me/barbar0jav1er" title="bjvalmaseda on Telegram">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 
@@ -97,6 +97,6 @@ I'm a Computer Science Engineer, full-stack web and blockchain developer, with e
 [Ubuntu]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 
 <!--GitHub Stats-->
-[GitHub Streak]: https://github-readme-stats-bjvalmaseda.vercel.app//api?username=cubancodepath&theme=dark&ring=294CC6&fire=294CC6&currStreakLabel=294CC6
-[GitHub Stats]: https://github-readme-stats-bjvalmaseda.vercel.app//api?username=cubancodepath&show_icons=true&count_private=true&theme=THEME_NAME&title_color=294CC6&icon_color=294CC6&text_color=9f9f9f&bg_color=151515
-[Top langs]: https://github-readme-stats-bjvalmaseda.vercel.app//api/top-langs/?username=cubancodepath&layout=compact&title_color=294CC6&icon_color=294CC6&text_color=9f9f9f&bg_color=151515
+[GitHub Streak]: https://github-readme-stats-bjvalmaseda.vercel.app//api?username=barbar0jav1er&theme=dark&ring=294CC6&fire=294CC6&currStreakLabel=294CC6
+[GitHub Stats]: https://github-readme-stats-bjvalmaseda.vercel.app//api?username=barbar0jav1er&show_icons=true&count_private=true&theme=THEME_NAME&title_color=294CC6&icon_color=294CC6&text_color=9f9f9f&bg_color=151515
+[Top langs]: https://github-readme-stats-bjvalmaseda.vercel.app//api/top-langs/?username=barbar0jav1er&layout=compact&title_color=294CC6&icon_color=294CC6&text_color=9f9f9f&bg_color=151515
